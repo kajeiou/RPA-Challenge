@@ -11,4 +11,4 @@ Steps :
 - Ouverture de l'url du challenge
 - Téléchargement du fichier challenge.xlsx depuis le site du challenge
 - Soumission du formulaire avec les informations du fichier
-- Résultat retourné dans la console
+- Résultat retourné dans la console et fichier créé dans cheminSortie (Ex: 2023_10_17reporting_challenge.xlsx)
